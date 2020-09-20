@@ -1,0 +1,7 @@
+Name: Venkata Sai Manoj Twarakavi	
+UTA ID: 1001637682
+
+Evaluation function Explanation:
+
+The evaluation function always select the optimal solution in which the player 1 wins. It is calculated as the difference between 
+score 1 and score 2. If the score is positive the algorithm considers the path or else it changes the path such that the player 1 wins. 
